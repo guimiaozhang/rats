@@ -1,4 +1,5 @@
 # rats
 
 Project report is uploaded.
-Codes can be shared via emails if needed.
+
+Codes can be shared and discussed if needed.
